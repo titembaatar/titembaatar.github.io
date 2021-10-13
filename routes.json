@@ -1,0 +1,16 @@
+[
+  {
+    "name": "paint",
+    "path": "/paint",
+    "component": "C:\\\\Users\\\\etien\\\\code\\\\mjapp\\\\pages\\\\paint.vue",
+    "chunkName": "pages/paint",
+    "_name": "_0e261de1"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\etien\\\\code\\\\mjapp\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_2f13f455"
+  }
+]
